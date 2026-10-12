@@ -1,8 +1,4 @@
 {
- "name": "Academia Vida Ativa Macaé",
- "background_color": "#FFFFFF",
- "display": "fullscreen",
- "start_url": "index.htm?installed=true",
  "icons": [
   {
    "type": "image/png",
@@ -40,5 +36,9 @@
    "src": "misc/icon64.png"
   }
  ],
- "theme_color": "#FFFFFF"
+ "start_url": "index.htm?installed=true",
+ "name": "Academia Vida Ativa Macaé",
+ "theme_color": "#FFFFFF",
+ "display": "fullscreen",
+ "background_color": "#FFFFFF"
 }
