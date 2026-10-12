@@ -15,8 +15,8 @@ WebFrame_A040CDAB_86B3_77EC_41C7_28A9F28EC250_mobile.url = https://www.atlantico
 WebFrame_A040CDAB_86B3_77EC_41C7_28A9F28EC250.url = https://www.atlanticoriodasostras.com.br/
 LinkBehaviour_527A17C8_4554_F660_41D1_4BD00FEAD290.source = https://www.facebook.com/loremipsum
 LinkBehaviour_A9DF3EE8_86D1_756D_41C9_5C199BFCA1F4.source = https://www.facebook.com/loremipsum
-WebFrame_A2A006DE_86B1_75A4_41C4_D4E62CE6C64D_mobile.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3705.296258089446!2d-41.32262402578852!3d-21.768792198191804!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xbdd55e7f7b1065%3A0x6ae3d70e900a2093!2sStudio%20Vida%20Ativa!5e0!3m2!1spt-BR!2sbr!4v1791806567743!5m2!1spt-BR!2sbr
-WebFrame_A2A006DE_86B1_75A4_41C4_D4E62CE6C64D.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3705.296258089446!2d-41.32262402578852!3d-21.768792198191804!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xbdd55e7f7b1065%3A0x6ae3d70e900a2093!2sStudio%20Vida%20Ativa!5e0!3m2!1spt-BR!2sbr!4v1791806567743!5m2!1spt-BR!2sbr
+WebFrame_A2A006DE_86B1_75A4_41C4_D4E62CE6C64D_mobile.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3689.335150236577!2d-41.77914682576355!3d-22.378719419210093!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9630895540d88d%3A0xa3efbb7ff9ac4c5d!2sAcademia%20Vida%20Ativa%20-%20Maca%C3%A9!5e0!3m2!1spt-BR!2sbr!4v1791814604882!5m2!1spt-BR!2sbr
+WebFrame_A2A006DE_86B1_75A4_41C4_D4E62CE6C64D.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3689.335150236577!2d-41.77914682576355!3d-22.378719419210093!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9630895540d88d%3A0xa3efbb7ff9ac4c5d!2sAcademia%20Vida%20Ativa%20-%20Maca%C3%A9!5e0!3m2!1spt-BR!2sbr!4v1791814604882!5m2!1spt-BR!2sbr
 LinkBehaviour_527A97C8_4554_F660_4189_1253717B4124.source = https://www.instagram.com/vidaativamacae/
 LinkBehaviour_5EF7847B_4480_0996_41C2_6C2BA87F8EB8.source = https://www.instagram.com/vidaativamacae/
 LinkBehaviour_527A87C8_4554_F660_4179_E9BDB938A43A.source = https://www.linkedin.com/loremipsum
